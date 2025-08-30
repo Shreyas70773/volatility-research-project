@@ -678,6 +678,6 @@ https://github.com/Shreyas70773/volatility-research-project
 
 ## Contact and Collaboration
 
-For questions about the methodology, implementation details, or potential collaborations, please open an issue in this repository or contact [your contact information].
+For questions about the methodology, implementation details, or potential collaborations, please open an issue in this repository or contact [shreyassunil010@gmail.com].
 
 **Keywords:** Volatility Modeling, GARCH, Component GARCH, Risk Management, VaR Backtesting, Financial Econometrics, Time Series Analysis
