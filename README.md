@@ -669,9 +669,9 @@ This research is provided for educational and research purposes. All code is ava
 
 **Citation:**
 ```
-[Sunil S.] (2025). Advanced Volatility Modeling: From Dynamic GARCH Innovation 
+Sunil S. (2025). Advanced Volatility Modeling: From Dynamic GARCH Innovation 
 to Component Model Validation. GitHub Repository. 
-https://github.com/[username]/volatility-research-project
+https://github.com/Shreyas70773/volatility-research-project
 ```
 
 ---
