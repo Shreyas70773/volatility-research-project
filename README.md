@@ -547,32 +547,6 @@ Advanced Volatility Framework
 
 ---
 
-## Repository Structure
-
-```
-volatility-research-project/
-├── README.md                           # This comprehensive guide
-├── advanced_volatility_framework.R     # Main analysis script (NEW)
-├── original_research/                  # Original dynamic GARCH research
-│   ├── dynamic_garch_analysis.R
-│   ├── component_garch_validation.R
-│   └── diagnostic_analysis.R
-├── checkpoints/                        # Analysis stage outputs
-│   ├── checkpoint_section2_ml.RData
-│   ├── checkpoint_section3_hf.RData
-│   ├── checkpoint_section4_var.RData
-│   └── realized_vol_cache.rds
-├── documentation/
-│   ├── mathematical_appendix.md
-│   ├── implementation_notes.md
-│   └── results_analysis.md
-└── utilities/
-    ├── data_validation.R
-    ├── plotting_functions.R
-    └── backtest_utilities.R
-```
-
----
 
 ## Future Research Directions
 
